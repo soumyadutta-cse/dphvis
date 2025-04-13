@@ -93,6 +93,23 @@ Prof. Satoshi Tanaka received his Ph.D. in theoretical physics from Waseda Unive
 
 <br>
 
+## Accepted Papers
+
+1. Development of a Visual Analytic System for Baum Test Using Psychological Traits Dataset
+- Authors: Mikihiro Komoto (Kobe University), Kaho Takenouchi (Kobe University), Naohisa Sakamoto (Kobe University), Chieko Kato (Toyo University)
+
+2. A Study on Frame Rhythm Analysis of Character Motions in Anime Cels
+- Authors: Ryota Murata (Ritsumeikan University), Ryosuke Yamanishi (Kansai University), Susumu Nakata (Ritsumeikan University)
+
+3. Identification of Leading Lines in Artworks Based on Topological Analysis of Saliency Maps
+- Authors: Fuminori Shibasaki (Keio University), Prof. Issei Fujishiro (Keio University)
+
+4. Transparent Visualization with Dynamic Shading for 3D Scanned Point Clouds of Cultural Heritage Objects
+- Authors: Hatsuki Nojiri (Ritsumeikan University), Satoshi Takatori (Ritsumeikan University), Kyoko Hasegawa (Tokai University), Liang Li (Ritsumeikan University), Michael Feener (Kyoto University), Keiji Yano (Ritsumeikan University), Satoshi Tanaka (Ritsumeikan University)
+
+#### For a full details of the workshop program please visit: https://pacificvis2025.github.io/pages/DPH-VisWorkshop.html
+
+
 ## Committee and Chairs
 
 #### Workshop Chairs
@@ -111,22 +128,6 @@ Prof. Satoshi Tanaka received his Ph.D. in theoretical physics from Waseda Unive
 </div>
 
 <br>
-
-## Accepted Papers
-
-1. Development of a Visual Analytic System for Baum Test Using Psychological Traits Dataset
-- Authors: Mikihiro Komoto (Kobe University), Kaho Takenouchi (Kobe University), Naohisa Sakamoto (Kobe University), Chieko Kato (Toyo University)
-
-2. A Study on Frame Rhythm Analysis of Character Motions in Anime Cels
-- Authors: Ryota Murata (Ritsumeikan University), Ryosuke Yamanishi (Kansai University), Susumu Nakata (Ritsumeikan University)
-
-3. Identification of Leading Lines in Artworks Based on Topological Analysis of Saliency Maps
-- Authors: Fuminori Shibasaki (Keio University), Prof. Issei Fujishiro (Keio University)
-
-4. Transparent Visualization with Dynamic Shading for 3D Scanned Point Clouds of Cultural Heritage Objects
-- Authors: Hatsuki Nojiri (Ritsumeikan University), Satoshi Takatori (Ritsumeikan University), Kyoko Hasegawa (Tokai University), Liang Li (Ritsumeikan University), Michael Feener (Kyoto University), Keiji Yano (Ritsumeikan University), Satoshi Tanaka (Ritsumeikan University)
-
-#### For a full details of the workshop program please visit: https://pacificvis2025.github.io/pages/DPH-VisWorkshop.html
 
 
 #### Program Committee
